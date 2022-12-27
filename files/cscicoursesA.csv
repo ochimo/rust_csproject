@@ -1,0 +1,462 @@
+year,department,couse_num,course_name,prof_id,prof_fname,prof_lname
+2021,CSCI,1200,INTRO TO COMPUTING,lnariso,Liz,Naris
+2021,CSCI,1300,COMP SCI I: PROGRAMMING,nscollan0,Nicky,Scollan
+2021,CSCI,1300,COMP SCI I: PROGRAMMING,rfauning4,Rene,Fauning
+2021,CSCI,1300,COMP SCI I: PROGRAMMING,dblakelockl,Daisey,Blakelock
+2021,CSCI,2270,COMP SCI II: DATA STRUCT,llytellf,Lesly,Lytell
+2021,CSCI,2270,COMP SCI II: DATA STRUCT,ajohnson,Alex,Johnson
+2021,CSCI,2830,SP TPS-INTRO COMP SCI,wriordanc,Waverley,Riordan
+2021,CSCI,3104,ALGORITHMS,mchazelasa,Mufi,Chazelas
+2021,CSCI,3155,PRINCIP OF PROG LANGS,adummigan2,Alanah,Dummigan
+2021,CSCI,3202,INTRO ARTIFICIAL INTELL,ffernyhoughj,Florette,Fernyhough
+2021,CSCI,3287,DATABASES INFO SYSTEMS,nscollan0,Nicky,Scollan
+2021,CSCI,3308,SOFTWARE ENG METHODS,jcupitt6,Judas,Cupitt
+2021,CSCI,3434,COMPUTER SCIENCE THRY 1,ffernyhoughj,Florette,Fernyhough
+2021,CSCI,3656,NUMERICAL COMP 1,tgranhami,Terrence,Granham
+2021,CSCI,3702,COGNITIVE SCIENCE,ffernyhoughj,Florette,Fernyhough
+2021,CSCI,4229,COMPUTER GRAPHICS,ggounyn,Gerri,Gouny
+2021,CSCI,4273,NETWORK SYSTEMS,ffernyhoughj,Florette,Fernyhough
+2021,CSCI,4308,SOFTWARE ENG PROJECT 1,tjeary8,Trina,Jeary
+2021,CSCI,4448,OO ANALYSIS & DESIGN,atromans1,Ashlen,Tromans
+2021,CSCI,4830,SPECIAL TOPICS COMP SCI,esigsworthh,Emmaline,Sigsworth
+2021,CSCI,4838,USER INTERFACE DESIGN,iantczak9,Ibbie,Antczak
+2021,CSCI,5444,INTRO TO THEORY OF COMP,adummigan2,Alanah,Dummigan
+2021,CSCI,5582,ARTIFICIAL INTELLIGENCE,tattersollm,Teodora,Attersoll
+2021,CSCI,5606,PRIN OF NUM COMPUTATION,lnariso,Liz,Naris
+2021,CSCI,5622,MACHINE LEARNING,wriordanc,Waverley,Riordan
+2021,CSCI,7900,IND STDY-DOCTOR'S LEVEL,esigsworthh,Emmaline,Sigsworth
+2020,CSCI,1200,INTRO TO COMPUTING,ependlebury3,Earlie,Pendlebury
+2020,CSCI,1300,COMP SCI I: PROGRAMMING,yblaxtong,Yuma,Blaxton
+2020,CSCI,2270,COMP SCI II: DATA STRUCT,yblaxtong,Yuma,Blaxton
+2020,CSCI,3104,ALGORITHMS,esigsworthh,Emmaline,Sigsworth
+2020,CSCI,3155,PRINCIP OF PROG LANGS,lnariso,Liz,Naris
+2020,CSCI,3434,COMPUTER SCIENCE THRY 1,ifredi5,Imogen,Fredi
+2020,CSCI,3656,NUMERICAL COMP 1,iantczak9,Ibbie,Antczak
+2020,CSCI,3753,OPERATING SYSTEMS,adummigan2,Alanah,Dummigan
+2020,CSCI,4113,UNIX SYSTEM ADMIN,atromans1,Ashlen,Tromans
+2020,CSCI,4273,NETWORK SYSTEMS,fhamorb,Fidela,Hamor
+2020,CSCI,4318,SOFTWARE ENG PROJECT 2,ffernyhoughj,Florette,Fernyhough
+2020,CSCI,4753,COMP PERFORM MODELING,atromans1,Ashlen,Tromans
+2020,CSCI,4830,TPC-DESIGN LRN COLLABOR,tjeary8,Trina,Jeary
+2020,CSCI,5454,DESIGN ANLYS OF ALGOS,nscollan0,Nicky,Scollan
+2020,CSCI,5817,DATABASE SYSTEMS,phaylesk,Pip,Hayles
+2020,CSCI,5828,FOUNDATIONS/SFTWARE ENGR,yblaxtong,Yuma,Blaxton
+2020,CSCI,5832,NATURAL LANG PROCESSING,fhamorb,Fidela,Hamor
+2020,CSCI,6448,OO ANALYSIS & DESIGN,tgranhami,Terrence,Granham
+2020,CSCI,7222,TPCS NONSYMBOLIC AI,ffernyhoughj,Florette,Fernyhough
+2020,CSCI,7772,TPCS-COGNITIVE SCIENCE,llytellf,Lesly,Lytell
+2019,CSCI,1000,CS AS FIELD OF WK & STDY,zanscottd,Zorah,Anscott
+2019,CSCI,1220,VR: INTRO TO COMP SCI,fhamorb,Fidela,Hamor
+2019,CSCI,1300,COMP SCI I: PROGRAMMING,fhamorb,Fidela,Hamor
+2019,CSCI,1300,COMP SCI I: PROGRAMMING,dblakelockl,Daisey,Blakelock
+2019,CSCI,2270,COMP SCI II: DATA STRUCT,ependlebury3,Earlie,Pendlebury
+2019,CSCI,2270,COMP SCI II: DATA STRUCT,ajohnson,Alex,Johnson
+2019,CSCI,2830,SP TPS-LIN ALG COMP SCI,ffernyhoughj,Florette,Fernyhough
+2019,CSCI,3104,ALGORITHMS,dblakelockl,Daisey,Blakelock
+2019,CSCI,3155,PRINCIP OF PROG LANGS,esigsworthh,Emmaline,Sigsworth
+2019,CSCI,3202,INTRO ARTIFICIAL INTELL,tgranhami,Terrence,Granham
+2019,CSCI,3287,DATABASES INFO SYSTEMS,zanscottd,Zorah,Anscott
+2019,CSCI,3308,SOFTWARE ENG METHODS,ifredi5,Imogen,Fredi
+2019,CSCI,3434,THEORY OF COMPUTATION,tattersollm,Teodora,Attersoll
+2019,CSCI,3702,COGNITIVE SCIENCE,atromans1,Ashlen,Tromans
+2019,CSCI,4229,COMPUTER GRAPHICS,ependlebury3,Earlie,Pendlebury
+2019,CSCI,4273,NETWORK SYSTEMS,wriordanc,Waverley,Riordan
+2019,CSCI,4308,SOFTWARE ENG PROJECT 1,esigsworthh,Emmaline,Sigsworth
+2019,CSCI,4448,OO ANALYSIS & DESIGN,tjeary8,Trina,Jeary
+2019,CSCI,4555,INTRO TO COMPILER CONSTR,zanscottd,Zorah,Anscott
+2019,CSCI,4830,TPC-ANIMATION/EVERYONE,ifredi5,Imogen,Fredi
+2019,CSCI,4838,USER INTERFACE DESIGN,ffernyhoughj,Florette,Fernyhough
+2019,CSCI,5444,INTRO TO THEORY OF COMP,phaylesk,Pip,Hayles
+2019,CSCI,5535,FUND CONCEPTS/PROG LANG,zanscottd,Zorah,Anscott
+2019,CSCI,5548,SW ENG OF STNDALNE PROGS,rfauning4,Rene,Fauning
+2019,CSCI,5576,HIGH-PERF SCI COMPUTING,adummigan2,Alanah,Dummigan
+2019,CSCI,5582,ARTIFICIAL INTELLIGENCE,ggounyn,Gerri,Gouny
+2019,CSCI,5606,PRIN OF NUM COMPUTATION,tgranhami,Terrence,Granham
+2019,CSCI,5654,LINEAR PROGRAM,llytellf,Lesly,Lytell
+2019,CSCI,6268,NETWORK SECURITY,tjeary8,Trina,Jeary
+2019,CSCI,7000,TP-INFORMATION RETRIEVAL,nscollan0,Nicky,Scollan
+2019,CSCI,7000,CUR TPS-GROUPWARE,lfullick7,Lester,Fullick
+2019,CSCI,7143,TPC-MOBIL COMPUTING,ifredi5,Imogen,Fredi
+2019,CSCI,7900,DOCTOR'S LEVEL IND STDY,tgranhami,Terrence,Granham
+2018,CSCI,1240,COMPUTATIONAL WORLD,lfullick7,Lester,Fullick
+2018,CSCI,1300,COMP SCI I: PROGRAMMING,adummigan2,Alanah,Dummigan
+2018,CSCI,2270,COMP SCI II: DATA STRUCT,phaylesk,Pip,Hayles
+2018,CSCI,2270,COMP SCI II: DATA STRUCT,ajohnson,Alex,Johnson
+2018,CSCI,2400,COMPUTER SYSTEMS,phaylesk,Pip,Hayles
+2018,CSCI,3104,ALGORITHMS,adummigan2,Alanah,Dummigan
+2018,CSCI,3155,PRINCIP OF PROG LANGS,ggounyn,Gerri,Gouny
+2018,CSCI,3434,THEORY OF COMPUTATION,ggounyn,Gerri,Gouny
+2018,CSCI,3656,NUMERICAL COMP 1,lfullick7,Lester,Fullick
+2018,CSCI,3753,OPERATING SYSTEMS,tgranhami,Terrence,Granham
+2018,CSCI,4113,UNIX SYSTEM ADMIN,ependlebury3,Earlie,Pendlebury
+2018,CSCI,4273,NETWORK SYSTEMS,jcupitt6,Judas,Cupitt
+2018,CSCI,4314,ALGORITHMS: MOLECULARBIO,lnariso,Liz,Naris
+2018,CSCI,4318,SOFTWARE ENG PROJECT 2,tjeary8,Trina,Jeary
+2018,CSCI,4446,CHAOTIC DYNAMICS,ependlebury3,Earlie,Pendlebury
+2018,CSCI,4830,SP TPS-THINGS THAT THINK,adummigan2,Alanah,Dummigan
+2018,CSCI,4830,TPC-CS-GAME PROGRAMMING,wriordanc,Waverley,Riordan
+2018,CSCI,4830,TPC-COGNITIVE MODELING,mchazelasa,Mufi,Chazelas
+2018,CSCI,4830,OPN SPC DEV MOBL PTLFRM,zanscottd,Zorah,Anscott
+2018,CSCI,4838,USER INTERFACE DESIGN,zanscottd,Zorah,Anscott
+2018,CSCI,5454,DESIGN ANLYS OF ALGOS,phaylesk,Pip,Hayles
+2018,CSCI,5622,MACHINE LEARNING,esigsworthh,Emmaline,Sigsworth
+2018,CSCI,5673,DISTRIBUTED SYSTEMS,mchazelasa,Mufi,Chazelas
+2018,CSCI,5722,COMPUTER VISION,lnariso,Liz,Naris
+2018,CSCI,5817,DATABASE SYSTEMS,atromans1,Ashlen,Tromans
+2018,CSCI,5828,FOUNDATIONS/SFTWARE ENGR,llytellf,Lesly,Lytell
+2018,CSCI,5832,NATURAL LANG PROCESSING,nscollan0,Nicky,Scollan
+2017,CSCI,1000,CS AS FIELD OF WK & STDY,tjeary8,Trina,Jeary
+2017,CSCI,1220,VR: INTRO TO COMP SCI,esigsworthh,Emmaline,Sigsworth
+2017,CSCI,1300,COMP SCI I: PROGRAMMING,zanscottd,Zorah,Anscott
+2017,CSCI,1300,COMP SCI I: PROGRAMMING,yblaxtong,Yuma,Blaxton
+2017,CSCI,2270,COMP SCI II: DATA STRUCT,dblakelockl,Daisey,Blakelock
+2017,CSCI,2400,COMPUTER SYSTEMS,zanscottd,Zorah,Anscott
+2017,CSCI,2830,SP TPS-LIN ALG COMP SCI,rfauning4,Rene,Fauning
+2017,CSCI,3002,DSS FOUNDATIONS,ifredi5,Imogen,Fredi
+2017,CSCI,3104,ALGORITHMS,yblaxtong,Yuma,Blaxton
+2017,CSCI,3155,PRINCIP OF PROG LANGS,mchazelasa,Mufi,Chazelas
+2017,CSCI,3202,INTRO ARTIFICIAL INTELL,tgranhami,Terrence,Granham
+2017,CSCI,3287,DATABASES INFO SYSTEMS,phaylesk,Pip,Hayles
+2017,CSCI,3308,SOFTWARE ENG METHODS,phaylesk,Pip,Hayles
+2017,CSCI,3434,THEORY OF COMPUTATION,tjeary8,Trina,Jeary
+2017,CSCI,3702,COGNITIVE SCIENCE,phaylesk,Pip,Hayles
+2017,CSCI,3702,COGNITIVE SCIENCE,yblaxtong,Yuma,Blaxton
+2017,CSCI,4123,NETWORK LAB,iantczak9,Ibbie,Antczak
+2017,CSCI,4229,COMPUTER GRAPHICS,tgranhami,Terrence,Granham
+2017,CSCI,4273,NETWORK SYSTEMS,ependlebury3,Earlie,Pendlebury
+2017,CSCI,4308,SOFTWARE ENG PROJECT 1,rfauning4,Rene,Fauning
+2017,CSCI,4312,MEDICAL INFORMATICS,mchazelasa,Mufi,Chazelas
+2017,CSCI,4314,ALGORITHMS: MOLECULARBIO,rfauning4,Rene,Fauning
+2017,CSCI,4448,OO ANALYSIS & DESIGN,iantczak9,Ibbie,Antczak
+2017,CSCI,4809,COMPUTER ANIMATION,llytellf,Lesly,Lytell
+2017,CSCI,4830,SP TPS-COMP GEOMETRIES,esigsworthh,Emmaline,Sigsworth
+2017,CSCI,5444,INTRO TO THEORY OF COMP,ependlebury3,Earlie,Pendlebury
+2017,CSCI,5573,ADV OPERATING SYSTEMS,bfealtye,Batsheva,Fealty
+2017,CSCI,5576,HIGH-PERF SCI COMPUTING,esigsworthh,Emmaline,Sigsworth
+2017,CSCI,5606,PRIN OF NUM COMPUTATION,jcupitt6,Judas,Cupitt
+2017,CSCI,5622,MACHINE LEARNING,nscollan0,Nicky,Scollan
+2017,CSCI,6000,NEW PHD,ifredi5,Imogen,Fredi
+2017,CSCI,7000,TP-INFORMATION RETRIEVAL,atromans1,Ashlen,Tromans
+2017,CSCI,7000,HCI: SURVEY & SYNTHESIS,phaylesk,Pip,Hayles
+2017,CSCI,7818,TPCS/SOFTWARE ENGINEER,jcupitt6,Judas,Cupitt
+2016,CSCI,1240,COMPUTATIONAL WORLD,dblakelockl,Daisey,Blakelock
+2016,CSCI,1300,COMP SCI I: PROGRAMMING,atromans1,Ashlen,Tromans
+2016,CSCI,2270,COMP SCI II: DATA STRUCT,tgranhami,Terrence,Granham
+2016,CSCI,2824,DISCRETE STRUCTURES,llytellf,Lesly,Lytell
+2016,CSCI,3104,ALGORITHMS,ggounyn,Gerri,Gouny
+2016,CSCI,3112,DSS PROFESSIONAL DEV,ifredi5,Imogen,Fredi
+2016,CSCI,3155,PRINCIP OF PROG LANGS,tgranhami,Terrence,Granham
+2016,CSCI,3434,THEORY OF COMPUTATION,iantczak9,Ibbie,Antczak
+2016,CSCI,3656,NUMERICAL COMP 1,llytellf,Lesly,Lytell
+2016,CSCI,3753,OPERATING SYSTEMS,esigsworthh,Emmaline,Sigsworth
+2016,CSCI,4113,UNIX SYSTEM ADMIN,phaylesk,Pip,Hayles
+2016,CSCI,4133,SECURITY LAB,ifredi5,Imogen,Fredi
+2016,CSCI,4318,SOFTWARE ENG PROJECT 2,mchazelasa,Mufi,Chazelas
+2016,CSCI,4412,DESIGN CREATIVITY,atromans1,Ashlen,Tromans
+2016,CSCI,4446,CHAOTIC DYNAMICS,iantczak9,Ibbie,Antczak
+2016,CSCI,4753,COMP PERFORM MODELING,mchazelasa,Mufi,Chazelas
+2016,CSCI,4830,DATA MINING,tgranhami,Terrence,Granham
+2016,CSCI,4830,TPC-GAME PROGRAMMING,wriordanc,Waverley,Riordan
+2016,CSCI,4830,ADV COMPUTER GRAPHICS,yblaxtong,Yuma,Blaxton
+2016,CSCI,4838,USER INTERFACE DESIGN,tgranhami,Terrence,Granham
+2016,CSCI,5454,DESIGN ANLYS OF ALGOS,nscollan0,Nicky,Scollan
+2016,CSCI,5673,DISTRIBUTED SYSTEMS,fhamorb,Fidela,Hamor
+2016,CSCI,5817,DATABASE SYSTEMS,lnariso,Liz,Naris
+2016,CSCI,5828,FOUNDATIONS/SFTWARE ENGR,phaylesk,Pip,Hayles
+2016,CSCI,5832,NATURAL LANG PROCESSING,ffernyhoughj,Florette,Fernyhough
+2015,CSCI,1000,CS AS FIELD OF WK & STDY,iantczak9,Ibbie,Antczak
+2015,CSCI,1220,VR: INTRO TO COMP SCI,jcupitt6,Judas,Cupitt
+2015,CSCI,1300,COMP SCI I: PROGRAMMING,atromans1,Ashlen,Tromans
+2015,CSCI,1300,COMP SCI I: PROGRAMMING,tjeary8,Trina,Jeary
+2015,CSCI,2270,COMP SCI II: DATA STRUCT,dblakelockl,Daisey,Blakelock
+2015,CSCI,2400,COMPUTER SYSTEMS,llytellf,Lesly,Lytell
+2015,CSCI,2824,DISCRETE STRUCTURES,llytellf,Lesly,Lytell
+2015,CSCI,2830,SP TPS-LIN ALG COMP SCI,ffernyhoughj,Florette,Fernyhough
+2015,CSCI,3002,DSS FOUNDATIONS,jcupitt6,Judas,Cupitt
+2015,CSCI,3104,ALGORITHMS,fhamorb,Fidela,Hamor
+2015,CSCI,3112,DSS PROFESSIONAL DEV,tattersollm,Teodora,Attersoll
+2015,CSCI,3155,PRINCIP OF PROG LANGS,zanscottd,Zorah,Anscott
+2015,CSCI,3202,INTRO ARTIFICIAL INTELL,lfullick7,Lester,Fullick
+2015,CSCI,3287,DATABASES INFO SYSTEMS,fhamorb,Fidela,Hamor
+2015,CSCI,3434,THEORY OF COMPUTATION,iantczak9,Ibbie,Antczak
+2015,CSCI,3702,COGNITIVE SCIENCE,ependlebury3,Earlie,Pendlebury
+2015,CSCI,3702,COGNITIVE SCIENCE,adummigan2,Alanah,Dummigan
+2015,CSCI,4229,COMPUTER GRAPHICS,yblaxtong,Yuma,Blaxton
+2015,CSCI,4273,NETWORK SYSTEMS,ffernyhoughj,Florette,Fernyhough
+2015,CSCI,4308,SOFTWARE ENG PROJECT 1,zanscottd,Zorah,Anscott
+2015,CSCI,4314,ALGORITHMS: MOLECULARBIO,phaylesk,Pip,Hayles
+2015,CSCI,4342,GROUPWARE AND WORKFLOW,bfealtye,Batsheva,Fealty
+2015,CSCI,4448,OO ANALYSIS & DESIGN,iantczak9,Ibbie,Antczak
+2015,CSCI,4809,COMPUTER ANIMATION,dblakelockl,Daisey,Blakelock
+2015,CSCI,4830,TPC-MULTI-ROBOT SYSTEMS,phaylesk,Pip,Hayles
+2015,CSCI,5417,INFORMATION RETRIEVAL,dblakelockl,Daisey,Blakelock
+2015,CSCI,5573,ADV OPERATING SYSTEMS,dblakelockl,Daisey,Blakelock
+2015,CSCI,5622,MACHINE LEARNING,yblaxtong,Yuma,Blaxton
+2015,CSCI,5919,HUMAN COMPUTER INTERACTN,phaylesk,Pip,Hayles
+2015,CSCI,6000,NEW PHD,zanscottd,Zorah,Anscott
+2015,CSCI,6268,NETWORK SECURITY,jcupitt6,Judas,Cupitt
+2014,CSCI,1240,COMPUTATIONAL WORLD,dblakelockl,Daisey,Blakelock
+2014,CSCI,1300,COMP SCI I: PROGRAMMING,mchazelasa,Mufi,Chazelas
+2014,CSCI,2270,COMP SCI II: DATA STRUCT,yblaxtong,Yuma,Blaxton
+2014,CSCI,2824,DISCRETE STRUCTURES,adummigan2,Alanah,Dummigan
+2014,CSCI,3104,ALGORITHMS,yblaxtong,Yuma,Blaxton
+2014,CSCI,3112,DSS PROFESSIONAL DEV,mchazelasa,Mufi,Chazelas
+2014,CSCI,3155,PRINCIP OF PROG LANGS,rfauning4,Rene,Fauning
+2014,CSCI,3308,SOFTWARE ENG METHODS,fhamorb,Fidela,Hamor
+2014,CSCI,3656,NUMERICAL COMP 1,tgranhami,Terrence,Granham
+2014,CSCI,3753,OPERATING SYSTEMS,adummigan2,Alanah,Dummigan
+2014,CSCI,4113,UNIX SYSTEM ADMIN,wriordanc,Waverley,Riordan
+2014,CSCI,4123,NETWORK LAB,fhamorb,Fidela,Hamor
+2014,CSCI,4318,SOFTWARE ENG PROJECT 2,ependlebury3,Earlie,Pendlebury
+2014,CSCI,4446,CHAOTIC DYNAMICS,tgranhami,Terrence,Granham
+2014,CSCI,4830,NATURAL COMPUTING,bfealtye,Batsheva,Fealty
+2014,CSCI,4830,TPC-GAMES FOR HEALTH,lnariso,Liz,Naris
+2014,CSCI,4830,DATA MINING,rfauning4,Rene,Fauning
+2014,CSCI,4830,TPC-GAME PROGRAMMING,tgranhami,Terrence,Granham
+2014,CSCI,4830,INTRODUCTION TO ROBOTICS,jcupitt6,Judas,Cupitt
+2014,CSCI,4839,USER CENTERED DESIGN,fhamorb,Fidela,Hamor
+2014,CSCI,5454,DESIGN ANLYS OF ALGOS,tgranhami,Terrence,Granham
+2014,CSCI,5535,FUND CONCEPTS/PROG LANG,zanscottd,Zorah,Anscott
+2014,CSCI,5576,HIGH-PERF SCI COMP 1,ffernyhoughj,Florette,Fernyhough
+2014,CSCI,5673,DISTRIBUTED SYSTEMS,bfealtye,Batsheva,Fealty
+2014,CSCI,5817,DATABASE SYSTEMS,nscollan0,Nicky,Scollan
+2014,CSCI,5828,FOUNDATIONS/SFTWARE ENGR,tjeary8,Trina,Jeary
+2014,CSCI,5832,NATURAL LANG PROCESSING,tattersollm,Teodora,Attersoll
+2014,CSCI,7000,TPC-CRYTPOGRAPHY,esigsworthh,Emmaline,Sigsworth
+2014,CSCI,7772,TPCS-COGNITIVE SCIENCE,ggounyn,Gerri,Gouny
+2013,CSCI,1000,Computer Science as a Field of Work and Study,iantczak9,Ibbie,Antczak
+2013,CSCI,1300,Computer Science 1: Programming,fhamorb,Fidela,Hamor
+2013,CSCI,1300,Computer Science 1: Programming,esigsworthh,Emmaline,Sigsworth
+2013,CSCI,2270,Computer Science 2: Data Structures,jcupitt6,Judas,Cupitt
+2013,CSCI,2400,Computer Systems,tgranhami,Terrence,Granham
+2013,CSCI,2824,Discrete Structures,zanscottd,Zorah,Anscott
+2013,CSCI,2830,Special Topics in Computer Science,mchazelasa,Mufi,Chazelas
+2013,CSCI,3002,Human-Centered Computing Foundations,ependlebury3,Earlie,Pendlebury
+2013,CSCI,3104,Algorithms,zanscottd,Zorah,Anscott
+2013,CSCI,3112,Human-Centered Computing Professional Development,llytellf,Lesly,Lytell
+2013,CSCI,3202,Introduction to Artificial Intelligence,rfauning4,Rene,Fauning
+2013,CSCI,3287,Database and Information Systems,fhamorb,Fidela,Hamor
+2013,CSCI,3308,Software Engineering Methods and Tools,iantczak9,Ibbie,Antczak
+2013,CSCI,3702,Cognitive Science,bfealtye,Batsheva,Fealty
+2013,CSCI,3702,Cognitive Science,llytellf,Lesly,Lytell
+2013,CSCI,4202,Artificial Intelligence 2,zanscottd,Zorah,Anscott
+2013,CSCI,4229,Computer Graphics,tgranhami,Terrence,Granham
+2013,CSCI,4273,Network Systems,ggounyn,Gerri,Gouny
+2013,CSCI,4308,Software Engineering Project 1,lfullick7,Lester,Fullick
+2013,CSCI,4314,Algorithms for Molecular Biology,lnariso,Liz,Naris
+2013,CSCI,4809,Computer Animation,esigsworthh,Emmaline,Sigsworth
+2013,CSCI,4830,Special Topics in Computer Science,zanscottd,Zorah,Anscott
+2013,CSCI,4839,User-Centered Design,wriordanc,Waverley,Riordan
+2013,CSCI,5417,Information Retrieval Systems,atromans1,Ashlen,Tromans
+2013,CSCI,5444,Introduction to Theory of Computation,esigsworthh,Emmaline,Sigsworth
+2013,CSCI,5573,Advanced Operating Systems,rfauning4,Rene,Fauning
+2013,CSCI,5722,Computer Vision,zanscottd,Zorah,Anscott
+2013,CSCI,5839,User-Centered Design,yblaxtong,Yuma,Blaxton
+2013,CSCI,6000,Introduction to the Computer Science PhD Program,nscollan0,Nicky,Scollan
+2013,CSCI,7772,Topics in Cognitive Science,jcupitt6,Judas,Cupitt
+2012,CSCI,1240,The Computational World,adummigan2,Alanah,Dummigan
+2012,CSCI,1300,Computer Science 1: Programming,atromans1,Ashlen,Tromans
+2012,CSCI,2270,Computer Science 2: Data Structures,tjeary8,Trina,Jeary
+2012,CSCI,2824,Discrete Structures,ependlebury3,Earlie,Pendlebury
+2012,CSCI,3104,Algorithms,mchazelasa,Mufi,Chazelas
+2012,CSCI,3112,Human-Centered Computing Professional Development,zanscottd,Zorah,Anscott
+2012,CSCI,3155,Principles of Programming Languages,ffernyhoughj,Florette,Fernyhough
+2012,CSCI,3434,Theory of Computation,iantczak9,Ibbie,Antczak
+2012,CSCI,3656,Numerical Computation,tjeary8,Trina,Jeary
+2012,CSCI,3753,Operating Systems,yblaxtong,Yuma,Blaxton
+2012,CSCI,4113,Unix System Administration,nscollan0,Nicky,Scollan
+2012,CSCI,4312,Health Informatics,ifredi5,Imogen,Fredi
+2012,CSCI,4318,Software Engineering Project 2,atromans1,Ashlen,Tromans
+2012,CSCI,4446,Chaotic Dynamics,jcupitt6,Judas,Cupitt
+2012,CSCI,4448,Object-Oriented Analysis and Design,tgranhami,Terrence,Granham
+2012,CSCI,4830,Special Topics in Computer Science,rfauning4,Rene,Fauning
+2012,CSCI,4830,Special Topics in Computer Science,ifredi5,Imogen,Fredi
+2012,CSCI,4830,Special Topics in Computer Science,phaylesk,Pip,Hayles
+2012,CSCI,5446,Chaotic Dynamics,tattersollm,Teodora,Attersoll
+2012,CSCI,5448,Object-Oriented Analysis and Design,mchazelasa,Mufi,Chazelas
+2012,CSCI,5454,Design and Analysis of Algorithms,zanscottd,Zorah,Anscott
+2012,CSCI,5576,High-Performance Scientific Computing,lnariso,Liz,Naris
+2012,CSCI,5673,Distributed Systems,esigsworthh,Emmaline,Sigsworth
+2012,CSCI,5753,Computer Performance Modeling,yblaxtong,Yuma,Blaxton
+2012,CSCI,5817,Database Systems,jcupitt6,Judas,Cupitt
+2012,CSCI,5832,Natural Language Processing,mchazelasa,Mufi,Chazelas
+2012,CSCI,5919,Human-Computer Interaction: Survey and Synthesis,llytellf,Lesly,Lytell
+2012,CSCI,6402,Issues and Methods in Cognitive Science,rfauning4,Rene,Fauning
+2012,CSCI,7000,Current Topics in Computer Science,llytellf,Lesly,Lytell
+2012,CSCI,7000,Current Topics in Computer Science,nscollan0,Nicky,Scollan
+2011,CSCI,1000,Computer Science as a Field of Work and Study,nscollan0,Nicky,Scollan
+2011,CSCI,1300,Computer Science 1: Programming,zanscottd,Zorah,Anscott
+2011,CSCI,1300,Computer Science 1: Programming,dblakelockl,Daisey,Blakelock
+2011,CSCI,2270,Computer Science 2: Data Structures,rfauning4,Rene,Fauning
+2011,CSCI,2400,Computer Systems,zanscottd,Zorah,Anscott
+2011,CSCI,2824,Discrete Structures,ggounyn,Gerri,Gouny
+2011,CSCI,2830,Special Topics in Computer Science,rfauning4,Rene,Fauning
+2011,CSCI,3104,Algorithms,zanscottd,Zorah,Anscott
+2011,CSCI,3112,Human-Centered Computing Professional Development,phaylesk,Pip,Hayles
+2011,CSCI,3287,Database and Information Systems,wriordanc,Waverley,Riordan
+2011,CSCI,3302,Introduction to Robotics,tjeary8,Trina,Jeary
+2011,CSCI,3308,Software Engineering Methods and Tools,rfauning4,Rene,Fauning
+2011,CSCI,4229,Computer Graphics,jcupitt6,Judas,Cupitt
+2011,CSCI,4273,Network Systems,wriordanc,Waverley,Riordan
+2011,CSCI,4308,Software Engineering Project 1,adummigan2,Alanah,Dummigan
+2011,CSCI,4314,Algorithms for Molecular Biology,rfauning4,Rene,Fauning
+2011,CSCI,4448,Object-Oriented Analysis and Design,ifredi5,Imogen,Fredi
+2011,CSCI,4555,Compiler Construction,zanscottd,Zorah,Anscott
+2011,CSCI,4809,Computer Animation,mchazelasa,Mufi,Chazelas
+2011,CSCI,4830,Special Topics in Computer Science,adummigan2,Alanah,Dummigan
+2011,CSCI,4839,User-Centered Design,tjeary8,Trina,Jeary
+2011,CSCI,5417,Information Retrieval Systems,esigsworthh,Emmaline,Sigsworth
+2011,CSCI,5444,Introduction to Theory of Computation,ependlebury3,Earlie,Pendlebury
+2011,CSCI,5573,Advanced Operating Systems,lnariso,Liz,Naris
+2011,CSCI,5654,Linear Programming,adummigan2,Alanah,Dummigan
+2011,CSCI,6000,Introduction to the Computer Science PhD Program,llytellf,Lesly,Lytell
+2011,CSCI,6302,Speech Recognition and Synthesis,ependlebury3,Earlie,Pendlebury
+2011,CSCI,7000,Current Topics in Computer Science,ffernyhoughj,Florette,Fernyhough
+2011,CSCI,7772,Topics in Cognitive Science,fhamorb,Fidela,Hamor
+2010,CSCI,1240,The Computational World,ggounyn,Gerri,Gouny
+2010,CSCI,1300,Computer Science 1: Programming,llytellf,Lesly,Lytell
+2010,CSCI,2270,Computer Science 2: Data Structures,tjeary8,Trina,Jeary
+2010,CSCI,2824,Discrete Structures,fhamorb,Fidela,Hamor
+2010,CSCI,3002,Human-Centered Computing Foundations,wriordanc,Waverley,Riordan
+2010,CSCI,3104,Algorithms,yblaxtong,Yuma,Blaxton
+2010,CSCI,3112,Human-Centered Computing Professional Development,fhamorb,Fidela,Hamor
+2010,CSCI,3155,Principles of Programming Languages,mchazelasa,Mufi,Chazelas
+2010,CSCI,3434,Theory of Computation,tattersollm,Teodora,Attersoll
+2010,CSCI,3656,Numerical Computation,lfullick7,Lester,Fullick
+2010,CSCI,3753,Operating Systems,fhamorb,Fidela,Hamor
+2010,CSCI,4113,Unix System Administration,jcupitt6,Judas,Cupitt
+2010,CSCI,4318,Software Engineering Project 2,tgranhami,Terrence,Granham
+2010,CSCI,4446,Chaotic Dynamics,rfauning4,Rene,Fauning
+2010,CSCI,4576,High-Performance Scientific Computing,adummigan2,Alanah,Dummigan
+2010,CSCI,4753,Computer Performance Modeling,wriordanc,Waverley,Riordan
+2010,CSCI,4830,Special Topics in Computer Science,jcupitt6,Judas,Cupitt
+2010,CSCI,4830,Special Topics in Computer Science,nscollan0,Nicky,Scollan
+2010,CSCI,4830,Special Topics in Computer Science,wriordanc,Waverley,Riordan
+2010,CSCI,4830,Special Topics in Computer Science,atromans1,Ashlen,Tromans
+2010,CSCI,4830,Special Topics in Computer Science,adummigan2,Alanah,Dummigan
+2010,CSCI,4830,Special Topics in Computer Science,zanscottd,Zorah,Anscott
+2010,CSCI,5454,Design and Analysis of Algorithms,esigsworthh,Emmaline,Sigsworth
+2010,CSCI,5673,Distributed Systems,ifredi5,Imogen,Fredi
+2010,CSCI,5817,Database Systems,tgranhami,Terrence,Granham
+2010,CSCI,5828,Foundations of Software Engineering,fhamorb,Fidela,Hamor
+2010,CSCI,5919,Human-Computer Interaction: Survey and Synthesis,ifredi5,Imogen,Fredi
+2010,CSCI,6402,Issues and Methods in Cognitive Science,ffernyhoughj,Florette,Fernyhough
+2010,CSCI,7772,Topics in Cognitive Science,dblakelockl,Daisey,Blakelock
+2009,CSCI,1000,Computer Science as a Field of Work and Study,iantczak9,Ibbie,Antczak
+2009,CSCI,1300,Computer Science 1: Programming,phaylesk,Pip,Hayles
+2009,CSCI,1300,Computer Science 1: Programming,ffernyhoughj,Florette,Fernyhough
+2009,CSCI,2270,Computer Science 2: Data Structures,adummigan2,Alanah,Dummigan
+2009,CSCI,2400,Computer Systems,ifredi5,Imogen,Fredi
+2009,CSCI,2824,Discrete Structures,esigsworthh,Emmaline,Sigsworth
+2009,CSCI,2830,Special Topics in Computer Science,ffernyhoughj,Florette,Fernyhough
+2009,CSCI,3104,Algorithms,zanscottd,Zorah,Anscott
+2009,CSCI,3155,Principles of Programming Languages,tjeary8,Trina,Jeary
+2009,CSCI,3202,Introduction to Artificial Intelligence,tjeary8,Trina,Jeary
+2009,CSCI,3287,Database and Information Systems,ffernyhoughj,Florette,Fernyhough
+2009,CSCI,3308,Software Engineering Methods and Tools,ifredi5,Imogen,Fredi
+2009,CSCI,4229,Computer Graphics,yblaxtong,Yuma,Blaxton
+2009,CSCI,4273,Network Systems,rfauning4,Rene,Fauning
+2009,CSCI,4308,Software Engineering Project 1,yblaxtong,Yuma,Blaxton
+2009,CSCI,4314,Algorithms for Molecular Biology,dblakelockl,Daisey,Blakelock
+2009,CSCI,4448,Object-Oriented Analysis and Design,wriordanc,Waverley,Riordan
+2009,CSCI,4576,High-Performance Scientific Computing,lnariso,Liz,Naris
+2009,CSCI,4809,Computer Animation,tattersollm,Teodora,Attersoll
+2009,CSCI,4830,Special Topics in Computer Science,mchazelasa,Mufi,Chazelas
+2009,CSCI,4830,Special Topics in Computer Science,jcupitt6,Judas,Cupitt
+2009,CSCI,4830,Special Topics in Computer Science,iantczak9,Ibbie,Antczak
+2009,CSCI,4839,User-Centered Design,lfullick7,Lester,Fullick
+2009,CSCI,5444,Introduction to Theory of Computation,fhamorb,Fidela,Hamor
+2009,CSCI,5573,Advanced Operating Systems,iantczak9,Ibbie,Antczak
+2009,CSCI,5606,Principles of Numerical Computation,tjeary8,Trina,Jeary
+2009,CSCI,5832,Natural Language Processing,yblaxtong,Yuma,Blaxton
+2009,CSCI,6000,Introduction to the Computer Science PhD Program,fhamorb,Fidela,Hamor
+2009,CSCI,7222,Topics in Nonsymbolic Artificial Intelligence,iantczak9,Ibbie,Antczak
+2009,CSCI,7772,Topics in Cognitive Science,ifredi5,Imogen,Fredi
+2008,CSCI,1240,The Computational World,wriordanc,Waverley,Riordan
+2008,CSCI,1300,Computer Science 1: Programming,ffernyhoughj,Florette,Fernyhough
+2008,CSCI,2270,Computer Science 2: Data Structures,atromans1,Ashlen,Tromans
+2008,CSCI,2400,Computer Systems,esigsworthh,Emmaline,Sigsworth
+2008,CSCI,2824,Discrete Structures,lfullick7,Lester,Fullick
+2008,CSCI,3002,Human-Centered Computing Foundations,ependlebury3,Earlie,Pendlebury
+2008,CSCI,3104,Algorithms,ifredi5,Imogen,Fredi
+2008,CSCI,3155,Principles of Programming Languages,mchazelasa,Mufi,Chazelas
+2008,CSCI,3434,Theory of Computation,bfealtye,Batsheva,Fealty
+2008,CSCI,3656,Numerical Computation,jcupitt6,Judas,Cupitt
+2008,CSCI,3753,Operating Systems,rfauning4,Rene,Fauning
+2008,CSCI,4239,Advanced Computer Graphics,phaylesk,Pip,Hayles
+2008,CSCI,4318,Software Engineering Project 2,tattersollm,Teodora,Attersoll
+2008,CSCI,4446,Chaotic Dynamics,adummigan2,Alanah,Dummigan
+2008,CSCI,4502,Data Mining,tgranhami,Terrence,Granham
+2008,CSCI,4753,Computer Performance Modeling,ffernyhoughj,Florette,Fernyhough
+2008,CSCI,4830,Special Topics in Computer Science,rfauning4,Rene,Fauning
+2008,CSCI,4830,Special Topics in Computer Science,mchazelasa,Mufi,Chazelas
+2008,CSCI,4830,Special Topics in Computer Science,wriordanc,Waverley,Riordan
+2008,CSCI,4830,Special Topics in Computer Science,phaylesk,Pip,Hayles
+2008,CSCI,4830,Special Topics in Computer Science,ffernyhoughj,Florette,Fernyhough
+2008,CSCI,5454,Design and Analysis of Algorithms,atromans1,Ashlen,Tromans
+2008,CSCI,5817,Database Systems,ependlebury3,Earlie,Pendlebury
+2008,CSCI,6268,Foundations of Computer and Network Security,yblaxtong,Yuma,Blaxton
+2008,CSCI,6402,Issues and Methods in Cognitive Science,llytellf,Lesly,Lytell
+2008,CSCI,7000,Current Topics in Computer Science,ependlebury3,Earlie,Pendlebury
+2008,CSCI,7772,Topics in Cognitive Science,ependlebury3,Earlie,Pendlebury
+2007,CSCI,1000,Computer Science as a Field of Work and Study,fhamorb,Fidela,Hamor
+2007,CSCI,1300,Computer Science 1: Starting Computing,bfealtye,Batsheva,Fealty
+2007,CSCI,1300,Computer Science 1: Starting Computing,zanscottd,Zorah,Anscott
+2007,CSCI,2270,Computer Science 2: Data Structures,bfealtye,Batsheva,Fealty
+2007,CSCI,2270,Computer Science 2: Data Structures,iantczak9,Ibbie,Antczak
+2007,CSCI,2400,Computer Systems,ependlebury3,Earlie,Pendlebury
+2007,CSCI,2820,Linear Algebra with Computer Science Applications,mchazelasa,Mufi,Chazelas
+2007,CSCI,2824,Discrete Structures,fhamorb,Fidela,Hamor
+2007,CSCI,3104,Algorithms,rfauning4,Rene,Fauning
+2007,CSCI,3112,Human-Centered Computing Professional Development,tjeary8,Trina,Jeary
+2007,CSCI,3155,Principles of Programming Languages,atromans1,Ashlen,Tromans
+2007,CSCI,3202,Introduction to Artificial Intelligence,dblakelockl,Daisey,Blakelock
+2007,CSCI,3287,Database and Information Systems,ggounyn,Gerri,Gouny
+2007,CSCI,3302,Introduction to Robotics,yblaxtong,Yuma,Blaxton
+2007,CSCI,3308,Software Engineering Methods and Tools,fhamorb,Fidela,Hamor
+2007,CSCI,4113,Unix System Administration,ggounyn,Gerri,Gouny
+2007,CSCI,4229,Computer Graphics,esigsworthh,Emmaline,Sigsworth
+2007,CSCI,4273,Network Systems,yblaxtong,Yuma,Blaxton
+2007,CSCI,4308,Software Engineering Project 1,ifredi5,Imogen,Fredi
+2007,CSCI,4314,Algorithms for Molecular Biology,tjeary8,Trina,Jeary
+2007,CSCI,4576,High-Performance Scientific Computing,lnariso,Liz,Naris
+2007,CSCI,4809,Computer Animation,mchazelasa,Mufi,Chazelas
+2007,CSCI,4830,Special Topics in Computer Science,atromans1,Ashlen,Tromans
+2007,CSCI,4830,Special Topics in Computer Science,iantczak9,Ibbie,Antczak
+2007,CSCI,5352,Network Analysis and Modeling,zanscottd,Zorah,Anscott
+2007,CSCI,5444,Introduction to Theory of Computation,lnariso,Liz,Naris
+2007,CSCI,5535,Fundamental Concepts of Programming Languages,tgranhami,Terrence,Granham
+2007,CSCI,5606,Principles of Numerical Computation,bfealtye,Batsheva,Fealty
+2007,CSCI,5654,Linear Programming,jcupitt6,Judas,Cupitt
+2007,CSCI,5673,Distributed Systems,wriordanc,Waverley,Riordan
+2007,CSCI,5832,Natural Language Processing,ffernyhoughj,Florette,Fernyhough
+2007,CSCI,5919,HCC Survey and Synthesis: Foundations and Trajectories,adummigan2,Alanah,Dummigan
+2007,CSCI,6000,Introduction to the Computer Science PhD Program,yblaxtong,Yuma,Blaxton
+2007,CSCI,7222,Topics in Nonsymbolic Artificial Intelligence,esigsworthh,Emmaline,Sigsworth
+2007,CSCI,7772,Topics in Cognitive Science,tjeary8,Trina,Jeary
+2006,CSCI,1300,Computer Science 1: Programming,lnariso,Liz,Naris
+2006,CSCI,2270,Computer Science 2: Data Structures,lfullick7,Lester,Fullick
+2006,CSCI,2400,Computer Systems,mchazelasa,Mufi,Chazelas
+2006,CSCI,2824,Discrete Structures,lnariso,Liz,Naris
+2006,CSCI,3002,HCC Foundations/User-Centered Design and Development 1,ifredi5,Imogen,Fredi
+2006,CSCI,3104,Algorithms,lfullick7,Lester,Fullick
+2006,CSCI,3112,Human-Centered Computing Professional Development,lnariso,Liz,Naris
+2006,CSCI,3155,Principles of Programming Languages,mchazelasa,Mufi,Chazelas
+2006,CSCI,3308,SoftwareDevelopment Methods and Tools,bfealtye,Batsheva,Fealty
+2006,CSCI,3434,Theory of Computation,tattersollm,Teodora,Attersoll
+2006,CSCI,3656,Numerical Computation,dblakelockl,Daisey,Blakelock
+2006,CSCI,3753,Operating Systems,nscollan0,Nicky,Scollan
+2006,CSCI,4239,Advanced Computer Graphics,yblaxtong,Yuma,Blaxton
+2006,CSCI,4318,Software Engineering Project 2,tjeary8,Trina,Jeary
+2006,CSCI,4448,Object-Oriented Analysis and Design,iantczak9,Ibbie,Antczak
+2006,CSCI,4830,Special Topics in Computer Science,ifredi5,Imogen,Fredi
+2006,CSCI,4830,Special Topics in Computer Science,bfealtye,Batsheva,Fealty
+2006,CSCI,4830,Special Topics in Computer Science,tgranhami,Terrence,Granham
+2006,CSCI,4830,Special Topics in Computer Science,yblaxtong,Yuma,Blaxton
+2006,CSCI,4830,Special Topics in Computer Science,dblakelockl,Daisey,Blakelock
+2006,CSCI,5454,Design and Analysis of Algorithms,ffernyhoughj,Florette,Fernyhough
+2006,CSCI,5622,Machine Learning,tjeary8,Trina,Jeary
+2006,CSCI,5817,Database Systems,llytellf,Lesly,Lytell
+2006,CSCI,6402,Issues and Methods in Cognitive Science,lfullick7,Lester,Fullick
+2006,CSCI,6454,Advanced Algorithms,phaylesk,Pip,Hayles
+2006,CSCI,7772,Topics in Cognitive Science,ggounyn,Gerri,Gouny
